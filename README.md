@@ -20,7 +20,7 @@ This api allows developers to send emails from there server using the package no
 2. Navigate API's & services
 3. Click OAuth consent screen
 4. Create an External app this is ok for development apps but your api refresh_token is only valide for 7 days whereas internal doesn't expire (so production apps should use internal)
-5. Use the same app name, add a support email and developer email, then continue to the test users and add the developer email. all emails can be the same. Save
+5. Create an app name, add a support email and developer email, then continue to the test users and add the developer email. all emails can be the same. Save
 6. Now from the the API's & Services tab click Credientals, then create credients and OAuth client ID
 7. Select Web Application
 8. Authorize Redirects URI's add this address "https://developers.google.com/oauthplayground", (no closing slash)
