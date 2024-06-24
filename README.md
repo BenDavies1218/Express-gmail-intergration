@@ -1,6 +1,6 @@
 # Express-gmail-intergration
 
-This api allows developers to send emails from there server using the package nodemailer, developers need to have a gmail account create a project in google console (setup steps below). This route can be used in existing projects, the data sent can be added from the frontend. check https://www.nodemailer.com/message/ for more infomation on what data can be passed to nodemailer.
+This api allows developers to send emails from there server using the package nodemailer, developers need to have a gmail account create a project in google console (setup steps below). This route can be used in existing projects, At the moment it is only accepts get but a post request could be used to send data from the frontend. check https://www.nodemailer.com/message/ for more infomation on what data can be passed to nodemailer.
 
 ## REQUIRED PACKAGES
 
